@@ -1,10 +1,10 @@
-# Coding-Practices & School Projects
+# School Projects & Practice's
+[Custom Website](https://github.com/Z4KKD/CIS373_WebDeveloper)
 [C++ Practice](https://github.com/Z4KKD/C-PlusPlus) <br>
 [Java Practice](https://github.com/Z4KKD/Java) <br>
 [C# Practice](https://github.com/Z4KKD/C-Sharp) <br>
 [Python Practice](https://github.com/Z4KKD/PythonPractice-CIS261-ProjectPhase4) <br>
 [C Practice](https://github.com/Z4KKD/C) <br>
-[Custom Website](https://github.com/Z4KKD/CIS373_WebDeveloper)
 [Hotel Reservation Bot](https://github.com/Z4KKD/HotelReservation) <br>
 [Pizza Ordering Bot](https://github.com/Z4KKD/Pizza-Ordering-Chatbot) <br>
 [CIS261 - Employee Records Project Phase 3](https://github.com/Z4KKD/CIS261ProjectPhase3) <br>
