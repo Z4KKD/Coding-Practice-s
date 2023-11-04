@@ -1,5 +1,6 @@
 # School Projects & Practice's
 [Custom Website](https://github.com/Z4KKD/CIS373_WebDeveloper) <br>
+[Print name in reverse GIST](https://gist.github.com/Z4KKD/cbf4ee41d6eb32eba68d3ef84d00ee1c) <br>
 [C++ Practice](https://github.com/Z4KKD/C-PlusPlus) <br>
 [Java Practice](https://github.com/Z4KKD/Java) <br>
 [C# Practice](https://github.com/Z4KKD/C-Sharp) <br>
