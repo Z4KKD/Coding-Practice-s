@@ -1,5 +1,7 @@
 # School Projects & Practice's
 [Custom Website](https://github.com/Z4KKD/CIS373_WebDeveloper) <br>
+[Two-sample t-test](https://gist.github.com/Z4KKD/6210224399cffef8583ad47f04a0d7e0) <br>
+[One-sample hypothesis test for population proportion](https://gist.github.com/Z4KKD/ef1ccce81b520fa0dd31179313f7ffc5) <br>
 [Confidence intervals for population proportions](https://gist.github.com/Z4KKD/ab5a06f86ae668322c48ce820988443c) <br>
 [Confidence intervals for population means](https://gist.github.com/Z4KKD/8a55a8bd7724e5a1dc3f35fcc9d740cd) <br>
 [Print name in reverse GIST](https://gist.github.com/Z4KKD/cbf4ee41d6eb32eba68d3ef84d00ee1c) <br>
