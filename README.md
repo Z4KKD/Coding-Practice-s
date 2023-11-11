@@ -2,6 +2,7 @@
 [Custom Website](https://github.com/Z4KKD/CIS373_WebDeveloper) <br>
 [Creating correlation matrices](https://gist.github.com/Z4KKD/9bfc55587b768f5673ed5fb908bf8b50) <br>
 [Making predictions using SLR models](https://gist.github.com/Z4KKD/5d4b9d73d75dad3e27d7144f9f806ad7) <br>
+[Creating SLR models](https://gist.github.com/Z4KKD/dd018deffb7a93dc288cf8817a74e7ba) <br>
 [Two-sample t-test](https://gist.github.com/Z4KKD/6210224399cffef8583ad47f04a0d7e0) <br>
 [One-sample hypothesis test for population proportion](https://gist.github.com/Z4KKD/ef1ccce81b520fa0dd31179313f7ffc5) <br>
 [Confidence intervals for population proportions](https://gist.github.com/Z4KKD/ab5a06f86ae668322c48ce820988443c) <br>
