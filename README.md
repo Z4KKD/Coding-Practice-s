@@ -1,5 +1,7 @@
 # School Projects, Practice Projects, & Gist's (Snippets of code)
 [Custom Website](https://github.com/Z4KKD/CIS373_WebDeveloper) <br>
+[Regression with categorical predictors](https://gist.github.com/Z4KKD/f26099b9f5025c01ccd945f2ea4aa152) <br>
+[Multiple regression](https://gist.github.com/Z4KKD/6e23e7c859cc066888af4b6c7dcbf50e) <br>
 [Creating correlation matrices](https://gist.github.com/Z4KKD/9bfc55587b768f5673ed5fb908bf8b50) <br>
 [Making predictions using SLR models](https://gist.github.com/Z4KKD/5d4b9d73d75dad3e27d7144f9f806ad7) <br>
 [Creating SLR models](https://gist.github.com/Z4KKD/dd018deffb7a93dc288cf8817a74e7ba) <br>
