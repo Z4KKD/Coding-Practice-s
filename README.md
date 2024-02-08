@@ -12,7 +12,6 @@
 [Calculator](https://github.com/Z4KKD/Calculator) <br>
 [Coinflip Game](https://github.com/Z4KKD/CoinFlip) <br>
 [Fibonacci](https://github.com/Z4KKD/Fibonacci) <br>
-[Iterations and Recursions](https://github.com/Z4KKD/IterationAndRecursion) <br>
 [Guessing Game](https://github.com/Z4KKD/GuessingGame) <br>
 [Invoice Items](https://github.com/Z4KKD/InvoiceLineItem) <br>
 [Movie Guide Part 2](https://github.com/Z4KKD/MovieListPart2) <br>
