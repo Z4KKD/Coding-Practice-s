@@ -8,7 +8,7 @@
 [C Practice](https://github.com/Z4KKD/C) <br>
 [Hotel Reservation Bot](https://github.com/Z4KKD/HotelReservation) <br>
 [Pizza Ordering Bot](https://github.com/Z4KKD/Pizza-Ordering-Chatbot) <br>
-[CIS261 - Employee Records Project Phase 3](https://github.com/Z4KKD/CIS261ProjectPhase3) <br>
+[Employee Payroll Management System](https://github.com/Z4KKD/CIS261ProjectPhase3) <br>
 [Calculator](https://github.com/Z4KKD/Calculator) <br>
 [Coinflip Game](https://github.com/Z4KKD/CoinFlip) <br>
 [Guessing Game](https://github.com/Z4KKD/GuessingGame) <br>
