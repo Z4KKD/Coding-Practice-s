@@ -11,7 +11,6 @@
 [CIS261 - Employee Records Project Phase 3](https://github.com/Z4KKD/CIS261ProjectPhase3) <br>
 [Calculator](https://github.com/Z4KKD/Calculator) <br>
 [Coinflip Game](https://github.com/Z4KKD/CoinFlip) <br>
-[Fibonacci](https://github.com/Z4KKD/Fibonacci) <br>
 [Guessing Game](https://github.com/Z4KKD/GuessingGame) <br>
 [Invoice Items](https://github.com/Z4KKD/InvoiceLineItem) <br>
 [Movie Guide Part 2](https://github.com/Z4KKD/MovieListPart2) <br>
